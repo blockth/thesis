@@ -1,0 +1,18 @@
+{
+  "contracts": {
+    "Exchange": "11901c5cf7595e2215c35fee67c54ddf3e63b4fa",
+    "LinkToken": "49e7bae2df618e81d877632c6ad55872ff2ce801",
+    "Manage": "f18b0957c250ad5933091f62b72aa92e219cfd3a",
+    "MockDAI": "3a46a27d1be391dc9824ab812830fdd9f245aca0",
+    "MockV3Aggregator": "9e734e161b5cafcca52a917f10266f5a8bc05b28",
+    "MockWETH": "21c4935a4e5b858efd5c83f628f8bb78bafdabce",
+    "OpenZeppelin/openzeppelin-contracts@4.2.0/ERC20": "5c27d7156fdbfe889902cc167df697405a50ad20",
+    "TokenBase": "ce99a331d2ade59afb34e1edd3a2fa9419827be4",
+    "TrantToken": "9436ba16c8b4469c6579d0e4e970c6fd00c7309d",
+    "smartcontractkit/chainlink-brownie-contracts@0.2.1/BasicToken": "92084ac5279a2a3db988d9e01d7e6d3e3a4dab8d",
+    "smartcontractkit/chainlink-brownie-contracts@0.2.1/SafeMathChainlink": "bf84f5dba942291289c80f271862cb515ce813ab",
+    "smartcontractkit/chainlink-brownie-contracts@0.2.1/StandardToken": "7f21b0e2f1d1fcf89f4466183c9e73bc3cf77276"
+  },
+  "tests": {},
+  "tx": {}
+}
