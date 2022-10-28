@@ -1,2 +1,4 @@
 *.sol linguist-language=Solidity
 *.vy linguist-language=Python
+*.ts linguist-detectable=false
+*.js linguist-detectable=false
